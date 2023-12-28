@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "65890cf187ae362bc582da38"
+  },
+  "Name": "Apple",
+  "Price": 2,
+  "": ""
+},
+{
+  "_id": {
+    "$oid": "65890cf187ae362bc582da39"
+  },
+  "Name": "Banana",
+  "Price": 1.5,
+  "": ""
+},
+{
+  "_id": {
+    "$oid": "65890cf187ae362bc582da3a"
+  },
+  "Name": "Pear",
+  "Price": 2.3,
+  "": ""
+},
+{
+  "_id": {
+    "$oid": "65890cf187ae362bc582da3b"
+  },
+  "Name": "Orange",
+  "Price": 1.8,
+  "": ""
+}]
